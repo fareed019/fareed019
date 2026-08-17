@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an Energy Sciences Postgraduate having experience in the intersection of energy, policy and technology. <br> I have an interest in Data Analytics. <br> I also have fundamental knowledge of: <br> Python, R, Github, Tableau and Markdown <br> along with some miscellaneous tools and technologies.
+I am an Energy Sciences Postgraduate having experience in, at the intersection of energy, policy and technology. <br> I have an interest in Data Analytics. <br> I also have fundamental knowledge of: <br> Python, R, Github, Tableau and Markdown <br> along with some other miscellaneous tools and technologies.
 
 
 ## 🌐 Socials:
