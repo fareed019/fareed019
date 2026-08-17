@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning how to code in Python with an interest in R<br> programming language and Data Analytics as well. 
+I have an interest in Data Analytics. <br> Having fundamental knowledge of: <br> Python, R, Github, Tableau and Markdown
 
 
 ## 🌐 Socials:
